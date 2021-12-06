@@ -64,7 +64,6 @@
   .contenedor 
   {
     width: 48vw;
-    height: 70vh;
     display:inline-flex;
     flex-direction: column;
     justify-content: center;
